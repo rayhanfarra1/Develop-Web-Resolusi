@@ -2,3 +2,6 @@ Develop Web Resolusi
 - Membuat sebuah web sederhana
 - Membuat web pembelajaran bahasa arab
 - Membuat video pembelajaran bahasa arab (upload to youtube)
+- Menungkatkan skill bahasa arab
+- meningkatkan skill editing video
+- Meningkatkan skill coding
