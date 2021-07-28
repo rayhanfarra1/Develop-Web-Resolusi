@@ -1,0 +1,4 @@
+Develop Web Resolusi
+- Membuat sebuah web sederhana
+- Membuat web pembelajaran bahasa arab
+- Membuat video pembelajaran bahasa arab (upload to youtube)
